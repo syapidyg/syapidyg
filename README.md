@@ -17,7 +17,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### 🖼️Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -87,7 +86,7 @@
 
 </td></tr></table>  
 
-<br/>  
+
 
 
 ## Connect with me  
@@ -119,13 +118,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-<br/>  
-
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=syapidyg&&style=flat-square" align="center" />

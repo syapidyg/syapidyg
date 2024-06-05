@@ -97,6 +97,7 @@
 <a href="https://twitter.com/yves_syapi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+[![wakatime](https://wakatime.com/badge/user/018f0517-c045-4d73-8a38-23e67984789a.svg)](https://wakatime.com/@018f0517-c045-4d73-8a38-23e67984789a)
 <a href="https://linkedin.com/in/Yves Guerard SYAPZE DANGA" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
